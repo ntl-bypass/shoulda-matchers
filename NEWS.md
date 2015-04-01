@@ -67,6 +67,9 @@
 
 * Add `strict` qualifier to `validate_numericality_of`. ([#620])
 
+* Add `on` to `validate_numericality_of` (which was present in documentation but
+  completely missing, whoops!).
+
 [#402]: https://github.com/thoughtbot/shoulda-matchers/pull/402
 [#587]: https://github.com/thoughtbot/shoulda-matchers/pull/587
 [#662]: https://github.com/thoughtbot/shoulda-matchers/pull/662
